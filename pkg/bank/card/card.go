@@ -1,4 +1,4 @@
-package payment
+package card
 
 import (
 	"bank/pkg/bank/types"
