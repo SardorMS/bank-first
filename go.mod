@@ -1,3 +1,3 @@
-module bank
+module bank-first
 
 go 1.16
