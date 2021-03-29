@@ -26,6 +26,6 @@ go test -v ./...
 === RUN   ExamplePaymentSources
 --- PASS: ExamplePaymentSources (0.00s)
 PASS
-ok      bank/pkg/bank/card      0.021s
-?       bank/pkg/bank/types     [no test files]
+ok      bank-first/pkg/bank/card      0.021s
+?       bank-first/pkg/bank/types     [no test files]
 ```
