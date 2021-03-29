@@ -1,5 +1,5 @@
 # Bank-first
-Function that returns the maximum payment, in Go (Golang)
+Function that returns the maximum payment in Go (Golang)
 
 # Installation
 
